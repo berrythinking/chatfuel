@@ -15,8 +15,8 @@
     (int)$nextpage = $currentpage + 1;
     (int)$prevpage = $currentpage - 1;
    
-    $url= "url_of_this_php_file"; //url for datepicker.php
-    $urloutput = "url_to_show_the_date_selection"; //url for showtext.php
+    $url= "https://www.loyauto.com/datepicker.php"; //url for datepicker.php
+    $urloutput = "https://www.loyauto.com/showtext.php"; //url for showtext.php
     
     //show date using quick reply
     echo '{
